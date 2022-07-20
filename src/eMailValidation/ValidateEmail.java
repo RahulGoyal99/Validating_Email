@@ -25,11 +25,11 @@ public class ValidateEmail {
 		 }
 		 if(q>0) 
 		 {
-			 System.out.println("email id is present in the array");
+			 System.out.println("valid E-mail id\nemail id is present in the array\n");
 		 }
 		 else 
 		 {
-			 System.out.println("not present in the array");
+			 System.out.println("E-mail id InValid\nNot present in array");
 		 }
 		 
 	}
